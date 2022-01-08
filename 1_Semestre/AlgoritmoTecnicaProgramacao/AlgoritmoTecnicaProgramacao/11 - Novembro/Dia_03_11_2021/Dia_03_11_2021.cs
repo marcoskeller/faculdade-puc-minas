@@ -5,6 +5,16 @@ namespace AlgoritmoTecnicaProgramacao.Dia_03_11_2021
 {
     public class Dia_03_11_2021
     {
+        /*
+             * 1) Faça um procedimento chamado decisao que recebe como parâmetro um número inteiro positivo n (que deve estar entre 10 e 20) e um flag que indicará o que o procedimento deve fazer. Caso o flag seja igual a:
+            1: o procedimento deve exibir os n primeiros números positivos ímpares;
+            2: o procedimento deve exibir os n primeiros números positivos pares;
+            3: o procedimento deve exibir a soma dos n primeiros números positivos ímpares (a soma deve ser calculada por uma função);
+            4: o procedimento deve exibir a soma dos n primeiros números positivos pares (a soma deve ser calculada por uma função);
+            qualquer outro valor: uma mensagem adequada deve ser exibida.
+
+        */
+
         public static void ExercicioTrabalhandoOpcaoUsuario()
         {
             int opcao, numeroInformado;
