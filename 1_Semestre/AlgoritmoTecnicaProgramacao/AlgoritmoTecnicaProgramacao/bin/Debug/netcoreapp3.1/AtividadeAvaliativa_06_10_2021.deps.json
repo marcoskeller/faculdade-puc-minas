@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AtividadeAvaliativa_06_10_2021/1.0.0": {
+        "runtime": {
+          "AtividadeAvaliativa_06_10_2021.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AtividadeAvaliativa_06_10_2021/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

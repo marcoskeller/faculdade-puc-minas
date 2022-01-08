@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="08 - Agosto\Dia_18_08_2021\" />
+    <Folder Include="08 - Agosto\Dia_16_08_2021\" />
+    <Folder Include="08 - Agosto\Dia_17_08_2021\" />
+    <Folder Include="08 - Agosto\Dia_23_08_2021\" />
+    <Folder Include="08 - Agosto\Dia_24_08_2021\" />
+    <Folder Include="08 - Agosto\Dia_30_08_2021\" />
+    <Folder Include="08 - Agosto\Dia_31_08_2021\" />
+    <Folder Include="09 - Setembro\Dia_14_09_2021\" />
+    <Folder Include="09 - Setembro\Dia_13_09_2021\" />
+    <Folder Include="09 - Setembro\Dia_20_09_2021\" />
+    <Folder Include="09 - Setembro\Dia_21_09_2021\" />
+  </ItemGroup>
+
+</Project>

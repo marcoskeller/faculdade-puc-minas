@@ -1,0 +1,14 @@
+C:\Users\Keller\Documents\Cursos\ATP\AtividadeAvaliativa_06_10_2021\AtividadeAvaliativa_06_10_2021\bin\Debug\netcoreapp3.1\AtividadeAvaliativa_06_10_2021.exe
+C:\Users\Keller\Documents\Cursos\ATP\AtividadeAvaliativa_06_10_2021\AtividadeAvaliativa_06_10_2021\bin\Debug\netcoreapp3.1\AtividadeAvaliativa_06_10_2021.deps.json
+C:\Users\Keller\Documents\Cursos\ATP\AtividadeAvaliativa_06_10_2021\AtividadeAvaliativa_06_10_2021\bin\Debug\netcoreapp3.1\AtividadeAvaliativa_06_10_2021.runtimeconfig.json
+C:\Users\Keller\Documents\Cursos\ATP\AtividadeAvaliativa_06_10_2021\AtividadeAvaliativa_06_10_2021\bin\Debug\netcoreapp3.1\AtividadeAvaliativa_06_10_2021.runtimeconfig.dev.json
+C:\Users\Keller\Documents\Cursos\ATP\AtividadeAvaliativa_06_10_2021\AtividadeAvaliativa_06_10_2021\bin\Debug\netcoreapp3.1\AtividadeAvaliativa_06_10_2021.dll
+C:\Users\Keller\Documents\Cursos\ATP\AtividadeAvaliativa_06_10_2021\AtividadeAvaliativa_06_10_2021\bin\Debug\netcoreapp3.1\AtividadeAvaliativa_06_10_2021.pdb
+C:\Users\Keller\Documents\Cursos\ATP\AtividadeAvaliativa_06_10_2021\AtividadeAvaliativa_06_10_2021\obj\Debug\netcoreapp3.1\AtividadeAvaliativa_06_10_2021.csproj.AssemblyReference.cache
+C:\Users\Keller\Documents\Cursos\ATP\AtividadeAvaliativa_06_10_2021\AtividadeAvaliativa_06_10_2021\obj\Debug\netcoreapp3.1\AtividadeAvaliativa_06_10_2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keller\Documents\Cursos\ATP\AtividadeAvaliativa_06_10_2021\AtividadeAvaliativa_06_10_2021\obj\Debug\netcoreapp3.1\AtividadeAvaliativa_06_10_2021.AssemblyInfoInputs.cache
+C:\Users\Keller\Documents\Cursos\ATP\AtividadeAvaliativa_06_10_2021\AtividadeAvaliativa_06_10_2021\obj\Debug\netcoreapp3.1\AtividadeAvaliativa_06_10_2021.AssemblyInfo.cs
+C:\Users\Keller\Documents\Cursos\ATP\AtividadeAvaliativa_06_10_2021\AtividadeAvaliativa_06_10_2021\obj\Debug\netcoreapp3.1\AtividadeAvaliativa_06_10_2021.csproj.CoreCompileInputs.cache
+C:\Users\Keller\Documents\Cursos\ATP\AtividadeAvaliativa_06_10_2021\AtividadeAvaliativa_06_10_2021\obj\Debug\netcoreapp3.1\AtividadeAvaliativa_06_10_2021.dll
+C:\Users\Keller\Documents\Cursos\ATP\AtividadeAvaliativa_06_10_2021\AtividadeAvaliativa_06_10_2021\obj\Debug\netcoreapp3.1\AtividadeAvaliativa_06_10_2021.pdb
+C:\Users\Keller\Documents\Cursos\ATP\AtividadeAvaliativa_06_10_2021\AtividadeAvaliativa_06_10_2021\obj\Debug\netcoreapp3.1\AtividadeAvaliativa_06_10_2021.genruntimeconfig.cache
