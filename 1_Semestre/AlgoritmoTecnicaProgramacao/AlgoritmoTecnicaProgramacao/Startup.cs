@@ -54,7 +54,7 @@ namespace AlgoritmoTecnicaProgramacao
                     Dia_06_11_2021.ProgramaEleitoral.SituacaoEleitoral();
                      break;
                 case 11:
-                    Dia_17_11_2021.Dia_17_11_2021.TrabalhandoVetores();
+                    Dia_17_11_2021.MenuExercicios.AcessarMenuExercicios();
                     break;
                 case 12:
                     Dia_24_11_2021.Exercicios_24_11_2021.AcessarExercicios_24_11_2021();

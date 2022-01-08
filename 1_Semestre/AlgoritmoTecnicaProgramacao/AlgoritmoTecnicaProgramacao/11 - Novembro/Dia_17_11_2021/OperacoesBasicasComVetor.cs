@@ -3,9 +3,10 @@
 
 namespace AlgoritmoTecnicaProgramacao.Dia_17_11_2021
 {
-    public class Dia_17_11_2021
+    public class OperacoesBasicasComVetor
     {
         public static double mediaVetor = 0;
+
         public static void TrabalhandoVetores()
         {
             /*
