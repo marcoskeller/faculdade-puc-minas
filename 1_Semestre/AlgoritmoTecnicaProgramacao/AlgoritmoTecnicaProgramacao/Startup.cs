@@ -48,7 +48,7 @@ namespace AlgoritmoTecnicaProgramacao
                     Dia_19_10_2021.Prova_19_10_2021.Prova_1();
                     break;
                 case 9:
-                    // code block
+                    Dia_03_11_2021.Dia_03_11_2021.ExercicioTrabalhandoOpcaoUsuario();
                     break;
                 case 10:
                      //
