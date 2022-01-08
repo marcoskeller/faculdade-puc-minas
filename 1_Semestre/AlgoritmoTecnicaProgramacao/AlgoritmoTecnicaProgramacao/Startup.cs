@@ -12,7 +12,7 @@ namespace AlgoritmoTecnicaProgramacao
 
 
             Console.WriteLine("\n1  - Aula_01\n2  - 25/08/2021\n3  - 15/09/2021\n4  - 18/09/2021\n5  - 22/09/2021\n6  - 06/10/2021" +
-                "\n7  - 13/10/2021\n8  - Primeira Prova\n9  - 03/11/2021\n10 - 10/11/2021\n11 - 17/11/2021\n12 - 24/11/2021\n13 - 29/11/2021" +
+                "\n7  - 13/10/2021\n8  - Primeira Prova\n9  - 03/11/2021\n10 - 06/11/2021\n11 - 17/11/2021\n12 - 24/11/2021\n13 - 29/11/2021" +
                 "\n14 - 01-12-2021\n15 - Trabalhando Com Matriz\n16 - Somando Linhas Matriz\n17 - Trabalhando Com Vetores" +
                 "\n18 - Trabalhando Com Arquivos\n19 - Refatorando Vetores\n20 - Implementando Melhorias Vetores\n22 - Segunda Prova\n23 - Exercícios Toda Matéria");
 
@@ -51,7 +51,7 @@ namespace AlgoritmoTecnicaProgramacao
                     Dia_03_11_2021.Dia_03_11_2021.ExercicioTrabalhandoOpcaoUsuario();
                     break;
                 case 10:
-                     //
+                    Dia_06_11_2021.ProgramaEleitoral.SituacaoEleitoral();
                      break;
                 case 11:
                     Dia_17_11_2021.Dia_17_11_2021.TrabalhandoVetores();
