@@ -14,7 +14,7 @@ namespace AlgoritmoTecnicaProgramacao
             Console.WriteLine("\n1  - Aula_01\n2  - 25/08/2021\n3  - 15/09/2021\n4  - 18/09/2021\n5  - 22/09/2021\n6  - 06/10/2021" +
                 "\n7  - 13/10/2021\n8  - Primeira Prova\n9  - 03/11/2021\n10 - 06/11/2021\n11 - 17/11/2021\n12 - 24/11/2021\n13 - 29/11/2021" +
                 "\n14 - 01-12-2021\n15 - Trabalhando Com Matriz\n16 - Somando Linhas Matriz\n17 - Trabalhando Com Vetores" +
-                "\n18 - Trabalhando Com Arquivos\n19 - Refatorando Vetores\n20 - Implementando Melhorias Vetores\n22 - Segunda Prova\n23 - Exercícios Toda Matéria");
+                "\n18 - Trabalhando Com Arquivos\n19 - Refatorando Vetores\n20 - Trabalho Companhia Aérea 2\n22 - Segunda Prova\n23 - Exercícios Toda Matéria");
 
             Console.WriteLine("\n>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<");
 
@@ -81,7 +81,7 @@ namespace AlgoritmoTecnicaProgramacao
                     Dia_08_12_2021.RefatorandoVetores.RefatorandoVetores_08_12_2021();
                     break;
                 case 20:
-                    //Dia_01_12_2021.TrabalhandoComMatriz.TrabalhandoComElementosMatriz();
+                    Dia_13_12_2021.CompanhiaAerea_Parte_2.CompanhiaAerea_2();
                     break;
                 case 21:
                     //Dia_01_12_2021.TrabalhandoComMatriz.TrabalhandoComElementosMatriz();
